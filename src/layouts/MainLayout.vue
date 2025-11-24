@@ -71,6 +71,12 @@ const linksList = [
     icon: 'favorite',
     link: 'https://awesome.quasar.dev',
   },
+  {
+    title: 'Vjezba',
+    caption: 'vjezba',
+    icon: 'favorite',
+    link: '#/vjezba',
+  },
 ]
 
 const leftDrawerOpen = ref(false)
